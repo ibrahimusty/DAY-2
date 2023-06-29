@@ -1,4 +1,4 @@
-weight = int(input("weight:" ))
+weight = float(input("weight:" ))
 unit = input("(K)g or (L)bs: ")
 
 
