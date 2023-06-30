@@ -1,16 +1,5 @@
-# This is a sample Python script.
+price = [567 , 300 , 338 , 590 , 689 , 794, 836 , 496 , 479 , 433 , 862 , 367 , 678 , 126 , 561 , 374 , 321 , 747 , 959 , 799]
+for numbers in price:
+    x = numbers+ 100
+    print("the value of price is "  +  str(x))
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
